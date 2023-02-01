@@ -1,3 +1,14 @@
+#Metropolitan Art-Viewer
+
+
+"Metropolitan Art Viewer" is a dynamic and user-friendly application developed using ReactJS. The goal of this project was to provide a platform for users to view the vast collection of the Metropolitan Museum of Art in New York. The application utilizes the museum's third-party API to retrieve and display information about the artwork, including images, descriptions, and details about the artist
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
